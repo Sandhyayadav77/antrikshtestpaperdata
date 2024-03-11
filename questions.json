@@ -1,0 +1,2768 @@
+{
+  "subjects": [
+    {
+      "name": "English",
+      "classes": [
+        {
+          "class": 1,
+          "chapters": [
+            {
+              "chapter": 1,
+              "chapterName": "1 Picture Reading",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter1/1a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "What are these ? Name them.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter1/1b.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter1/1c.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Match the pictures with their names.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter1/1d.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks with ‘a’ or ‘an’",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter1/1e.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write at least six words with ‘a’ or ‘an’ before them.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter1/1f.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 2,
+              "chapterName": "2 Use of 'This'/'That'",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter2/2a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks with the use of 'this'/'that'.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter2/2b.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter2/2c.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter2/2d.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Use of 'this' and 'that' in your sentences.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter2/2e.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write as given in the example.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter2/2f.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 3,
+              "chapterName": "3 Use of 'These'/'Those'",
+              "categories": [
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter3/3a.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter3/3b.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter3/3c.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter3/3d.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write the meaning of the following words in Hindi.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter3/3e.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Use of These/Those.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter3/3f.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 4,
+              "chapterName": "4 Use of 'He'/ 'She'",
+              "categories": [
+                {
+                  "categoryName": "A. Fill in the blanks with 'He' or 'She'.",
+                  "questions": [
+                    {
+                      "question": "__________is Mr. Gupta.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "__________ is a teacher.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "__________ is Jhalak.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "__________ is a student.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks with the use of 'He'/'She':",
+                  "questions": [
+                    {
+                      "question": "This is Harshita.__________is a student.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "This is Rajan. __________ is a player.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "This is Mrs. Gupta. __________ is a doctor.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "This is Mr. Sharma. __________ is a teacher.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "This is Mr. Khanna.__________ is a doctor.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the missing letters.",
+                  "questions": [
+                    { "question": "f___od", "correctAnswer": "" },
+                    { "question": "fat___er", "correctAnswer": "" },
+                    { "question": "nu___se", "correctAnswer": "" },
+                    { "question": "sho___s", "correctAnswer": "" },
+                    { "question": "do___tor", "correctAnswer": "" },
+                    { "question": "post___an", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Make sentences using these pictures name.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter4/4a.png",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 5,
+              "chapterName": "5 Use of 'His'/'Her'",
+              "categories": [
+                {
+                  "categoryName": "Fill in the blanks with the use of His/Her",
+                  "questions": [
+                    {
+                      "question": "This is Vaishali. She has a new frock. It is __________frock",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "This is Neha. She has a green umbrella. It is __________ umbrella",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "This is Manav.He has a note book. It is __________notebook",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "This is Mr. Sharma. He has a motorcycle. It is __________ motorcycle",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write the meaning of the following words.",
+                  "questions": [
+                    { "question": "cycle__________", "correctAnswer": "" },
+                    { "question": "kite__________", "correctAnswer": "" },
+                    { "question": "daughter__________", "correctAnswer": "" },
+                    { "question": "frock__________", "correctAnswer": "" },
+                    { "question": "colour__________", "correctAnswer": "" },
+                    { "question": "loves__________", "correctAnswer": "" },
+                    { "question": "notebook__________", "correctAnswer": "" },
+                    { "question": "like__________", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks",
+                  "questions": [
+                    { "question": "da___cer", "correctAnswer": "" },
+                    { "question": "bo___k", "correctAnswer": "" },
+                    { "question": "tea___her", "correctAnswer": "" },
+                    { "question": "m___uth", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Match the items of the males to male and items of the females to female.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter5/5a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 6,
+              "chapterName": "6 Use of 'Has'/'Have'",
+              "categories": [
+                {
+                  "categoryName": "Fill in the blanks with 'has' or 'have'.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter6/6a.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter6/6b.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter6/6c.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter6/6d.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter6/6e.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter6/6f.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Match the pictures with their names.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter6/6g.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 7,
+              "chapterName": "7 Use of 'A' / 'An'",
+              "categories": [
+                {
+                  "categoryName": "Tick (✓) the correct option.",
+                  "questions": [
+                    { "question": "a/an ant", "correctAnswer": "" },
+                    { "question": "a/an cot", "correctAnswer": "" },
+                    { "question": "a/an axe", "correctAnswer": "" },
+                    { "question": "a/an doll", "correctAnswer": "" },
+                    { "question": "a/an flower", "correctAnswer": "" },
+                    { "question": "a/an owl", "correctAnswer": "" },
+                    { "question": "a/an boy", "correctAnswer": "" },
+                    { "question": "a/an girl", "correctAnswer": "" },
+                    { "question": ". a/an engine", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Write 'a' or 'an' before words.",
+                  "questions": [
+                    { "question": "___________ cycle", "correctAnswer": "" },
+                    { "question": "___________ school", "correctAnswer": "" },
+                    { "question": "___________ animal", "correctAnswer": "" },
+                    { "question": "___________ ball", "correctAnswer": "" },
+                    { "question": "___________ umbrella", "correctAnswer": "" },
+                    { "question": "___________ bat", "correctAnswer": "" },
+                    { "question": "___________ fox", "correctAnswer": "" },
+                    { "question": "___________ jug", "correctAnswer": "" },
+                    { "question": "___________ orange", "correctAnswer": "" },
+                    { "question": "___________ lamp", "correctAnswer": "" },
+                    { "question": "___________ elephant", "correctAnswer": "" },
+                    { "question": "___________ king", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter7/7a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Look at the pictures and fill up the blanks.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter7/7b.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Complete the spellings.",
+                  "questions": [
+                    { "question": "z____p", "correctAnswer": "" },
+                    { "question": "m____ng___", "correctAnswer": "" },
+                    { "question": "p____c____ck", "correctAnswer": "" },
+                    { "question": "qu____ _____n", "correctAnswer": "" },
+                    { "question": "c____m____l", "correctAnswer": "" },
+                    { "question": "t____ _____r", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 8,
+              "chapterName": "8 Use of 'Yes'/'No'",
+              "categories": [
+                {
+                  "categoryName": "Answer the following questions in Yes/No.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8a.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8b.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8c.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8d.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8e.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8f.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8g.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8h.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the missing letter.",
+                  "questions": [
+                    { "question": "b_______s", "correctAnswer": "" },
+                    { "question": "c_______r", "correctAnswer": "" },
+                    { "question": "dol_______", "correctAnswer": "" },
+                    { "question": "lo_______d", "correctAnswer": "" },
+                    { "question": "f_______t", "correctAnswer": "" },
+                    { "question": "ba_______", "correctAnswer": "" },
+                    { "question": "b_______x", "correctAnswer": "" },
+                    { "question": "thi_______", "correctAnswer": "" },
+                    { "question": "b____ll___ ___n", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Unscramble the letters and write the correct spelling for each word in the box.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8i.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8j.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter8/8k.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 9,
+              "chapterName": "9 Action Words",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter9/9a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks.",
+                  "questions": [
+                    {
+                      "question": "He is __________ fast.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "He is watering the __________ .",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "It guards our __________ .",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "__________ is dancing. .",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "Where is Rohan going? ________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Where is the bird? ________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What is the dog doing? ________________________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write the opposite words of the following.",
+                  "questions": [
+                    {
+                      "question": "go __________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "fast __________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "small __________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "near __________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "up __________________",
+                      "correctAnswer": ""
+                    },
+                    { "question": "on __________________", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 10,
+              "chapterName": "10 Prepositions",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter10/10a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks with the help of the given words.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter10/10b.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "Where do you sleep? __________________________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Where is always a fan? __________________________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Where is a television kept?__________________________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Where do you keep your books? __________________________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Where do you keep your books?__________________________________________________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks using words given in the box.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter10/10c.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter10/10d.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter10/10e.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Use the following prepositions in your own sentences.",
+                  "questions": [
+                    {
+                      "question": "on __________________________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "in __________________________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "under__________________________________________________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Look at the picture and write five sentences about it.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter10/10f.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 11,
+              "chapterName": "11 One and More",
+              "categories": [
+                {
+                  "categoryName": "Write plural forms of the given words.",
+                  "questions": [
+                    {
+                      "question": "Boy _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Song _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Book _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Match _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Man _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Child _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Pen _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Toy _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Paper _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Story _____________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write singular forms of the given words.",
+                  "questions": [
+                    {
+                      "question": "Bags _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Boxes _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Glasses _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Oxen _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Cows _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Jugs _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Babies _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Foxes _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Caps _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Uncles _____________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks with the help of correct words.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter11/11f.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "How many objects are there?",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter11/11a.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter11/11b.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter11/11c.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter11/11d.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english1/chapter11/11e.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 12,
+              "chapterName": "12 What They do?",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter12/12a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Match the following.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter12/12b.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    { "question": "Who grows food?", "correctAnswer": "" },
+                    {
+                      "question": "Who sells vegetables and fruits?",
+                      "correctAnswer": ""
+                    },
+                    { "question": "Who cuts the hair?", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Complete the spellings",
+                  "questions": [
+                    { "question": "D____n____er", "correctAnswer": "" },
+                    { "question": "S____rv____nt", "correctAnswer": "" },
+                    { "question": "M____lk____a____", "correctAnswer": "" },
+                    { "question": "N____r____ ____", "correctAnswer": "" },
+                    { "question": "C____b____ ____er", "correctAnswer": "" },
+                    { "question": "Te_____c_____ _____r", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks with the help of the given words.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter12/12c.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 13,
+              "chapterName": "13 Parts of Body",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english1/chapter13/13a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks.",
+                  "questions": [
+                    {
+                      "question": "I have_________ on my head.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "I can smell with my _________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "I can __________ with my legs.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "I have __________lips.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "How many eyes do you have?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What do you do with your nose?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "How many legs do you have?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What do you do with your ears?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Make words by arranging the letters in order.",
+                  "questions": [
+                    { "question": "deah ______________", "correctAnswer": "" },
+                    { "question": "aesr ______________", "correctAnswer": "" },
+                    { "question": "eesy ______________", "correctAnswer": "" },
+                    { "question": "nahds ______________", "correctAnswer": "" },
+                    { "question": "uhtom ______________", "correctAnswer": "" },
+                    { "question": "gesl ______________", "correctAnswer": "" },
+                    { "question": "pils ______________", "correctAnswer": "" },
+                    { "question": "genteo ______________", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 14,
+              "chapterName": "14 Days and Months",
+              "categories": [
+                {
+                  "categoryName": "Fill in the blanks.",
+                  "questions": [
+                    {
+                      "question": "The first month of the year is _____________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "July comes after _________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "October comes before__________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "December is the __________ month of the year.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write the odd words.",
+                  "questions": [
+                    {
+                      "question": "Leg, Pet, Key, Bell _____________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Rat, Car, Van, Bag __________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Tin, Ice, Bin, Pig___________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 15,
+              "chapterName": "15 Good Habits",
+              "categories": [
+                {
+                  "categoryName": "Fill in the blanks.",
+                  "questions": [
+                    {
+                      "question": "Sahil gets up at _____________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Sahil washes his_____________ with a ______________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Sahil prays to__________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Sahil goes to __________ at ____________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Sahil takes his __________ at ____________.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "What does Sahil do after getting up?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "When does Sahil take his breakfast?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "When does Sahil do his homework?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "When does Sahil go to bed?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Break the given words and make two new words.",
+                  "questions": [
+                    {
+                      "question": "homework = ____________+ _______________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "afternoon = ____________+ _______________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "breakfast = ____________+ _______________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "classroom = ____________+ _______________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 16,
+              "chapterName": "16 Ruchi's Family",
+              "categories": [
+                {
+                  "categoryName": "Fill in the blanks.",
+                  "questions": [
+                    {
+                      "question": "She lives here with her _____________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "He is ______________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "He is Ruchi’s __________ brother.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "He ____________ his sister.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Ruchi and Anant__________ their parents.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "Who is Ruchi's father?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Who is Anant's sister?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Whose father is Mr. Jain?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Who loves to read books?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": 2,
+          "chapters": [
+            {
+              "chapter": 1,
+              "chapterName": "1 Prayer",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter1/1a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks",
+                  "questions": [
+                    {
+                      "question": "God is our _____________. We are his _____________. He _____________ us. God has given us food. He has also given us _____________ , _____________  and _____________ . man is a little child of _____________ . May God show us _____________ . ",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "Who is my father?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What do I ask God?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What am I ?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Complete the sentences with your own ideas.",
+                  "questions": [
+                    {
+                      "question": "Mr. Sharma is reading  __________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "The boy is eating  __________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "He is rowing  __________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Use ‘This’ or ‘That’ in the blanks",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter1/1b.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Rearrange the sentences. ",
+                  "questions": [
+                    {
+                      "question": "these / grapes / sweet / are   _________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "mangoes / these / are  _________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "are / pears / those   _________________________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 2,
+              "chapterName": "2 Rohini, A Good Girl",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter2/2a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks. Options are : [teachers, good, goes, respects, school]",
+                  "questions": [
+                    {
+                      "question": " Rohini _____________ to school daily.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " Her _____________ love her very much.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " She is very ______________ by nature",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " She does her ______________ work daily",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " She ______________ her teachers.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "How old is Rohini? ",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Who is very intelligent ?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Does Rohini do her school work daily?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Does Rohini’s parents love her??",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Translate the following sentences in Hindi.",
+                  "questions": [
+                    {
+                      "question": "She is seven years old  ____________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "She is very intelligent.  ____________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "In the class she learns to read and write very well.  ____________________________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write the meaning of the following words.",
+                  "questions": [
+                    {
+                      "question": "Seven  _____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Younger  __________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "House  _____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Nature  _____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "learn  _____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Daily  _____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Write  _____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Evening  _____________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 3,
+              "chapterName": "3 My School",
+              "categories": [
+                {
+                  "categoryName": "Fill in the blanks. Options are [swings push on scream studies]",
+                  "questions": [
+                    {
+                      "question": "Rohit reaches to the school ______________  time.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Rohit ______________ with his friends",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Rohit ______________ hard in the classroom.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "While playing, children must not  ______________ each other.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "We must not shout and  ______________ .",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "What do you like to do before the bell rings?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What do you do when the bell rings?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What does your class monitor do?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What do you do at assembly?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Arrange the following list in alphabetical order.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter3/3a.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english2/chapter3/3b.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english2/chapter3/3c.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english2/chapter3/3d.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "In each of the given word below, the same letter is missing twice. Find out the missing letters to complete the words. The pictures will help you.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter3/3e.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english2/chapter3/3f.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english2/chapter3/3g.PNG",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "imgUrl": "./images/english/english2/chapter3/3h.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 4,
+              "chapterName": "4 A Holiday in the Village",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet. ",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter4/4a.png",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks. Options are [mango, bed, orchard, guava, family]",
+                  "questions": [
+                    {
+                      "question": " Manu is sitting on his  __________________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "He finds __________________ trees, _____________ trees on the way.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Grandfather takes them to the mango ____________________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Whole _____________ eats mango.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions :",
+                  "questions": [
+                    {
+                      "question": "What is the name of the village?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Which favourite dish did grandmother make?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What happens when Manu finishes the food?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill the missing letters.",
+                  "questions": [
+                    { "question": "h___li___ay", "correctAnswer": "" },
+                    { "question": "th____ ____ks", "correctAnswer": "" },
+                    { "question": "d____c___ded ", "correctAnswer": "" },
+                    { "question": "h____ ___rt", "correctAnswer": "" },
+                    {
+                      "question": "g____a____dm____th____r ",
+                      "correctAnswer": ""
+                    },
+                    { "question": "f___vo____r____te", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Write the meaning of following words in Hindi.",
+                  "questions": [
+                    {
+                      "question": "memorable  _________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "delicious  _________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "pleasure  _________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "orchard  _________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "favourite  _________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "dreams  _________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Make sentence using the following words.",
+                  "questions": [
+                    {
+                      "question": "orchard  _______________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "bush  ______________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "family   ______________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "angry  ______________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "grandparents  ______________________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write four lines of a poem.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter4/4b.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 5,
+              "chapterName": "5 Twinkling Stars",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter5/5a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks ",
+                  "questions": [
+                    {
+                      "question": "_______________________little star, How I wonder __________________!",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Then you show ____________________.  ______________________all the night.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "What is said to star ?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "How does the star look like ?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Write two sentences on star",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write rhyming words of the following.",
+                  "questions": [
+                    {
+                      "question": "star ________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "high  ________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "set  ________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "night  ________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Make sentences with the given words.",
+                  "questions": [
+                    {
+                      "question": "star _______________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "sky  _______________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "grass  _______________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "night  _______________________________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 6,
+              "chapterName": "6 A Greedy Man",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet..",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter6/6a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks. options are [laid, greedy, sell the]",
+                  "questions": [
+                    {
+                      "question": "Once there was a _______________ man.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "It _______________ golden eggs.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "He used to _______________ eggs for a lot of money.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "Why did the man cut stomach of his hen?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": ". What did he find?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Who laid the golden eggs?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What did the greedy man think one day?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Add the one letter to each of these words to make new words. ",
+                  "questions": [
+                    {
+                      "question": "____________________ here",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "____________________ all",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "____________________ own",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "____________________ each",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "____________________ hat",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "____________________ able",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "There is a small hidden word in each of the following bigger words.  Draw a circle round it and also write.",
+                  "questions": [
+                    {
+                      "question": "there  ____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "money  ____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " hen  ____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " golden ____________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 7,
+              "chapterName": "7 The Crocodile and the Monkey",
+              "categories": [
+                {
+                  "categoryName": "Fill in the blanks. Options are [at it up, nothing, laughed, wait, climb] ",
+                  "questions": [
+                    {
+                      "question": "The monkeys _________________ at the crocodile.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "The crocodile said _________________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " The crocodile said, “Just _________________ .”",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "The crocodile could not _________________ up a tree.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "The crocodile _________________ the little monkey.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write ‘T’ for true and ‘F’ for false for the following statements",
+                  "questions": [
+                    {
+                      "question": "The monkeys did not laugh at him again.                __________ ",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "There was only one little monkey.                __________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "The monkeys ate the crocodile.                __________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "All the monkeys used to jump up and down.                __________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "A tortoise lived in the river.                __________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "What was near the river?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Where did the monkeys live?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Where did the crocodile live?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "One day, what did the little monkey do ?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What did the crocodile do to him?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Rearrange the jumbled letters to make meaningful words.",
+                  "questions": [
+                    {
+                      "question": " VREY _________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " TAIW  _________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " EERT _________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " VRRIERVEY _________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " DOOW _________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " TOSRY _________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " RWATE _________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": " ANCHBR _________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 8,
+              "chapterName": "8 The King of Fruits",
+              "categories": [
+                {
+                  "categoryName": "QUESTIONS ARE NOT AVAILABLE  ",
+                  "questions": [
+                    {
+                      "question": "",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 9,
+              "chapterName": "9 Good Rules",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet. ",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter9/9a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write opposites of the following.",
+                  "questions": [
+                    { "question": "happy  __________ ", "correctAnswer": "" },
+                    { "question": "half     __________", "correctAnswer": "" },
+                    { "question": "well  __________", "correctAnswer": "" },
+                    { "question": "good     __________", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 10,
+              "chapterName": "10 Good Habits",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet. ",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english2/chapter10/10a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks Options are [traffic, clean, twice, school].",
+                  "questions": [
+                    { "question": "We should brush our teeth  __________ a day.  ", "correctAnswer": "" },
+                    { "question": "After taking a bath, we should wear   __________ clothes.", "correctAnswer": "" },
+                    { "question": "We should follow the __________ rules.", "correctAnswer": "" },
+                    { "question": "We should go to   __________ daily.", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Complete the spellings.",
+                  "questions": [
+                    { "question": "C____othes ", "correctAnswer": "" },
+                    { "question": "B_____eakfast ", "correctAnswer": "" },
+                    { "question": "B_____th", "correctAnswer": "" },
+                    { "question": "P____ay", "correctAnswer": "" },
+                    { "question": "C____ean", "correctAnswer": "" },
+                    { "question": "R____ad", "correctAnswer": "" },
+                    { "question": "T____eth", "correctAnswer": "" },
+                    { "question": "S____hool", "correctAnswer": "" },
+                    { "question": "F____l____ow", "correctAnswer": "" },
+                    { "question": "G____eet ", "correctAnswer": "" },
+                    { "question": "T____achers", "correctAnswer": "" },
+                    { "question": "H____althy", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Translate into Hindi.",
+                  "questions": [
+                    { "question": "We should not quarrel with our friends. _____________________________________________________ ", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 11,
+              "chapterName": "11 The King and The Farmer",
+              "categories": [
+              
+                {
+                  "categoryName": "Fill in the blanks Options are [own, struck, one, reward, gold coins].",
+                  "questions": [
+                    { "question": "The tip of his plough  __________ against some hard object.  ", "correctAnswer": "" },
+                    { "question": ". The farmer believed in his  __________ earned bread.", "correctAnswer": "" },
+                    { "question": "The farmer refused to accept the  __________ .", "correctAnswer": "" },
+                    { "question": "He was surprised to find   __________ in the pitcher.", "correctAnswer": "" },
+                    { "question": ". The king offered _______________ hundred coins to the farmer as reward for his honesty.", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Write ‘T’ for true and ‘F’ for false for the following statements.",
+                  "questions": [
+                    { "question": "The farmer was dishonest.   ________", "correctAnswer": "" },
+                    { "question": "The farmer was eating his food in the field.  ________", "correctAnswer": "" },
+                    { "question": "The farmer took the pitcher to the king.  ________", "correctAnswer": "" },
+                    { "question": "The king was not pleased with the farmer.  ________", "correctAnswer": "" },
+                    { "question": "The king offered one hundred gold coins to the farmer as reward.  ________", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions",
+                  "questions": [
+                    { "question": "What was the farmer doing in the field? ", "correctAnswer": "" },
+                    { "question": ". What did the farmer find while ploughing his field?", "correctAnswer": "" },
+                    { "question": "How many coins did the king offer to as a reward ? ", "correctAnswer": "" },
+                    { "question": ". Why was the king pleased with the farmer? ", "correctAnswer": "" },
+                    { "question": "What was the quality of the farmer?  ", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks with suitable verbs.",
+                  "questions": [
+                    { "question": ". He _____________ football.  (play/plays)", "correctAnswer": "" },
+                    { "question": ". _______________ you go to school daily?  (Do/Does)", "correctAnswer": "" },
+                    { "question": "Where _____________ you live?  (do/does) ", "correctAnswer": "" },
+                    { "question": ".. We _____________ milk daily.  (drink/drinks)", "correctAnswer": "" },
+                    { "question": "He _____________ not work hard.  (do/does)", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Use the following words in your own sentences.",
+                  "questions": [
+                    { "question": " Honesty   __________________________________ ", "correctAnswer": "" },
+                    { "question": "Pleased   __________________________________", "correctAnswer": "" },
+                    { "question": "God   __________________________________", "correctAnswer": "" },
+                    { "question": "Kind   __________________________________", "correctAnswer": "" },
+                    { "question": "King   __________________________________", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 12,
+              "chapterName": "12 Five Little Mice",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet. ",
+                  "questions": [
+                    { "imgUrl": "./images/english/english2/chapter12/12a.PNG", "correctAnswer": "" }
+                    
+                  ]
+                },
+                {
+                  "categoryName": "Complete the lines of the poem.",
+                  "questions": [
+                    { "question": "Five little  ___________________breadcrumbs. ________________________________________ Five little _______________ _____________________ on a pie.", "correctAnswer": "" }
+                  ]
+                },
+               
+                {
+                  "categoryName": "Answer the following questions",
+                  "questions": [
+                    { "question": "How many mice are there on the pantry floor?", "correctAnswer": "" },
+                    { "question": "Who is old and wise?", "correctAnswer": "" },
+                    { "question": "What does that cat do? ", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Give rhyming words for the following.",
+                  "questions": [
+                    { "question": "floor  ___________________", "correctAnswer": "" },
+                    { "question": "high  ___________________", "correctAnswer": "" },
+                    { "question": "away  ___________________ ", "correctAnswer": "" },
+                    { "question": "cat  ___________________ ", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Write the meaning of the following words in Hindi.",
+                  "questions": [
+                    { "question": "mice ___________________", "correctAnswer": "" },
+                    { "question": "pantry  ___________________", "correctAnswer": "" },
+                    { "question": "high  ___________________", "correctAnswer": "" },
+                    { "question": "snug  ___________________", "correctAnswer": "" },
+                    { "question": "breadcrumbs  ___________________", "correctAnswer": "" },
+                    { "question": "pie  ___________________", "correctAnswer": "" },
+                    { "question": "quickly  ___________________", "correctAnswer": "" },
+                    { "question": "wise  ___________________", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks, then circle the vowels and underline the consonants.",
+                  "questions": [
+                    { "imgUrl": "./images/english/english2/chapter12/12b.PNG", "correctAnswer": "" },
+                    { "imgUrl": "./images/english/english2/chapter12/12c.PNG", "correctAnswer": "" },
+                    { "imgUrl": "./images/english/english2/chapter12/12d.PNG", "correctAnswer": "" },
+                    { "imgUrl": "./images/english/english2/chapter12/12e.PNG", "correctAnswer": "" },
+                    { "imgUrl": "./images/english/english2/chapter12/12f.PNG", "correctAnswer": "" },
+                    { "imgUrl": "./images/english/english2/chapter12/12g.PNG", "correctAnswer": "" },
+                    { "imgUrl": "./images/english/english2/chapter12/12h.PNG", "correctAnswer": "" },
+                    { "imgUrl": "./images/english/english2/chapter12/12i.PNG", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 13,
+              "chapterName": "13 Always Be Kind",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet. ",
+                  "questions": [
+                    { "imgUrl": "./images/english/english2/chapter13/13a.PNG", "correctAnswer": "" }
+                    
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks. Options are [ kept, looking, my mother, money, enjoying ].",
+                  "questions": [
+                    { "question": "Mohit was ___________________ taste of ice-cream  . ", "correctAnswer": "" },
+                    { "question": "He ___________________ the rest of money in his pocket  . ", "correctAnswer": "" },
+                    { "question": "Mother gave him some ___________________ for ice-cream. ", "correctAnswer": "" },
+                    { "question": "The boy was ___________________ at him.", "correctAnswer": "" },
+                    { "question": "Mohit asked his ___________________ to buy an ice-cream. ", "correctAnswer": "" }
+                  ]
+                },
+               
+                {
+                  "categoryName": "Answer the following questions",
+                  "questions": [
+                    { "question": "Who went to ice-cream shop?", "correctAnswer": "" },
+                    { "question": "Who gave money to Mohit?", "correctAnswer": "" },
+                    { "question": "Who was there at the otherside of road? ", "correctAnswer": "" },
+                    { "question": "Where did the boy go after taking the ice-cream? ", "correctAnswer": "" },
+                    { "question": "Whom Mohit told the story?", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Write the meaning of the following words. ",
+                  "questions": [
+                    { "question": "Happily  ___________________", "correctAnswer": "" },
+                    { "question": "Answer  ___________________", "correctAnswer": "" },
+                    { "question": "Lived   ___________________ ", "correctAnswer": "" },
+                    { "question": "Understood  ___________________ ", "correctAnswer": "" },
+                    { "question": "Money  ___________________ ", "correctAnswer": "" },
+                    { "question": "Enjoy  ___________________ ", "correctAnswer": "" },
+                    { "question": "Mother  ___________________ ", "correctAnswer": "" },
+                    { "question": "Gave  ___________________ ", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Complete the spellings.",
+                  "questions": [
+                    { "question": "s ______ me", "correctAnswer": "" },
+                    { "question": "ha ______ ______ ily", "correctAnswer": "" },
+                    { "question": "w ______ rd", "correctAnswer": "" },
+                    { "question": "b ______ y", "correctAnswer": "" },
+                    { "question": "m ______ th ______ r", "correctAnswer": "" },
+                    { "question": "w ______ lk", "correctAnswer": "" },
+                    { "question": "m ______ch", "correctAnswer": "" },
+                    { "question": "mone ______ ", "correctAnswer": "" },
+                    { "question": "b _____ ught", "correctAnswer": "" },
+                    { "question": "as ______ d", "correctAnswer": "" },
+                    { "question": "gl ______ d", "correctAnswer": "" }
+                   
+                  ]
+                },
+                {
+                  "categoryName": "Translate into Hindi.",
+                  "questions": [
+                    { "question": "He bought an ice-cream for him.", "correctAnswer": "" },
+                    { "question": "The boy was looking at him. ", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 14,
+              "chapterName": "14 Rahul's Parrot",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet. ",
+                  "questions": [
+                    { "imgUrl": "./images/english/english2/chapter14/14a.PNG", "correctAnswer": "" }
+                    
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks. Options are [ Rambol, cage, talk ].",
+                  "questions": [
+                    { "question": "The parrot is in the ___________________ . ", "correctAnswer": "" },
+                    { "question": " ___________________ has a beak.", "correctAnswer": "" },
+                    { "question": "Rahul and his friends ___________________ to it. ", "correctAnswer": "" }
+                  ]
+                },
+               
+                {
+                  "categoryName": "Answer the following questions",
+                  "questions": [
+                    { "question": "Who has a parrot ?", "correctAnswer": "" },
+                    { "question": "What is the name of Rahul's pet ?", "correctAnswer": "" },
+                    { "question": "What is the colour of Rahul's pet ?", "correctAnswer": "" },
+                    { "question": ". What does the parrot say to everyone ? ", "correctAnswer": "" },
+                    { "question": "Why do people praise Rahul's pet ?", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Write plurals of the following words. ",
+                  "questions": [
+                    { "question": "parrot  ___________________", "correctAnswer": "" },
+                    { "question": "friend  ___________________", "correctAnswer": "" },
+                    { "question": "cage   ___________________ ", "correctAnswer": "" },
+                    { "question": "mother  ___________________ ", "correctAnswer": "" },
+                    { "question": "language  ___________________ ", "correctAnswer": "" },
+                    { "question": "bird  ___________________ ", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Put a circle around the odd one.",
+                  "questions": [
+                    { "question": "book, girl ,man ,woman, parrot ", "correctAnswer": "" },
+                    { "question": "lion , horse , fox , crow , cow ", "correctAnswer": "" },
+                    { "question": "book , paper , letter , pencils , card ", "correctAnswer": "" },
+                    { "question": "door , window , house , roof , basket", "correctAnswer": "" },
+                    { "question": "shirt , button , collar , frock , shoes ", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Tick (✔) the animals which can be kept as pets.",
+                  "questions": [
+                    { "imgUrl": "./images/english/english2/chapter14/14b.PNG", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 15,
+              "chapterName": "15 The Sun",
+              "categories": [
+               
+                {
+                  "categoryName": "Fill in the blanks. Options are [west, rises, ball, morning ].",
+                  "questions": [
+                    { "question": "The sun ___________________ in the east. ", "correctAnswer": "" },
+                    { "question": " The sun sets in the ___________________ .", "correctAnswer": "" },
+                    { "question": "The sun is a  ___________________ of fire. ", "correctAnswer": "" },
+                    { "question": "We should get up early in the   ___________________. ", "correctAnswer": "" }
+                  ]
+                },
+               
+                {
+                  "categoryName": "Answer the following questions",
+                  "questions": [
+                    { "question": "What happens when the sun sets?", "correctAnswer": "" },
+                    { "question": "What does the sun give us?", "correctAnswer": "" },
+                    { "question": "In which direction does the sun set?", "correctAnswer": "" },
+                    { "question": "What is the sun?", "correctAnswer": "" },
+                    { "question": "In which direction does the sun rise?", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Now read the following sentences and identify the masculine and  feminine words and write them in the space provided.  ",
+                  "questions": [
+                    { "imgUrl": "./images/english/english2/chapter15/15b.PNG", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },   
+            {
+              "chapter": 16,
+              "chapterName": "16 The Swing",
+              "categories": [
+               
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    { "imgUrl": "./images/english/english2/chapter16/16a.PNG", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Complete the lines of the poem. ",
+                  "questions": [
+                    { "question": "I race _____________________________________________. ", "correctAnswer": "" },
+                    { "question": "Over the_____________________________________. ", "correctAnswer": "" },
+                    { "question": "Nobody knows________________________________. ", "correctAnswer": "" }
+                  ]
+                },
+               
+                {
+                  "categoryName": "Write ‘T’ for True and ‘F’ for false for the following statements",
+                  "questions": [
+                    { "question": "The swing goes up and down.   _________", "correctAnswer": "" },
+                    { "question": "You can see the worms pass when you are up.     _________", "correctAnswer": "" },
+                    { "question": "You can see the birds fly when you are down.     _________", "correctAnswer": "" },
+                    { "question": "Your feet in front move before you in a swing.     _________ ", "correctAnswer": "" },
+                    { "question": "When in a swing you race with the birds and the wind.      _________ ", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Match the rhyming words ",
+                  "questions": [
+                    { "imgUrl": "./images/english/english2/chapter16/16b.PNG", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Write the meaning of the following words in Hindi. ",
+                  "questions": [
+                    { "question": "high _______________________", "correctAnswer": "" },
+                    { "question": "behind _______________________. ", "correctAnswer": "" },
+                    { "question": "sky _______________________", "correctAnswer": "" },
+                    { "question": "world _______________________ ", "correctAnswer": "" },
+                    { "question": "worm _______________________. ", "correctAnswer": "" },
+                    { "question": "grass ______________________. ", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Now, fill in the blanks with ‘is’/‘am’/‘are’",
+                  "questions": [
+                    { "question": "Pinky _______________________ thirsty. ", "correctAnswer": "" },
+                    { "question": "You _______________________ not happy here. ", "correctAnswer": "" },
+                    { "question": "He _______________________ happy at his school.", "correctAnswer": "" },
+                    { "question": "They  _______________________  absent today.", "correctAnswer": "" },
+                    { "question": "I _______________________  very hungry. ", "correctAnswer": "" },
+                    { "question": "We ______________________ angry with him. ", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 17,
+              "chapterName": "17 Our Nation",
+              "categories": [
+               
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    { "imgUrl": "./images/english/english2/chapter17/17a.PNG", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks. Options are [dirty, beautiful, big, three, capital].",
+                  "questions": [
+                    { "question": "New Delhi is the ___________________  of India. ", "correctAnswer": "" },
+                    { "question": " It is a very  ___________________ country.", "correctAnswer": "" },
+                    { "question": "National Flag has ___________________ colours. ", "correctAnswer": "" },
+                    { "question": " Peacock is a very   ___________________ bird. ", "correctAnswer": "" },
+                    { "question": "Lotus grows in the   ___________________ water. ", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions. ",
+                  "questions": [
+                    { "question": "What is the name of our country? ", "correctAnswer": "" },
+                    { "question": "What is the capital of India? ", "correctAnswer": "" },
+                    { "question": "How many colours are there in our national flag? Name them.", "correctAnswer": "" },
+                    { "question": "How many states are there in India?  ", "correctAnswer": "" }
+                  ]
+                },
+               
+                {
+                  "categoryName": "Complete the spellings.",
+                  "questions": [
+                    { "question": " Coun ____ ___ y", "correctAnswer": "" },
+                    { "question": "b ___ a ____ ti ____ u ___ ", "correctAnswer": "" },
+                    { "question": " mi____ ___le", "correctAnswer": "" },
+                    { "question": "f ___ ow ___ r", "correctAnswer": "" },
+                    { "question": "an ___m _____ l ", "correctAnswer": "" },
+                    { "question": " f ___a___ h___ r ___", "correctAnswer": "" },
+                    { "question": "sy ____ b _____ l  ", "correctAnswer": "" },
+                    { "question": " p ____ ri ____ y", "correctAnswer": "" }
+                  ]
+                },
+                {
+                  "categoryName": "Write the meaning of the following words.",
+                  "questions": [
+                    { "question": "Country  _______________________", "correctAnswer": "" },
+                    { "question": "Capital _______________________. ", "correctAnswer": "" },
+                    { "question": "Spokes _______________________", "correctAnswer": "" },
+                    { "question": "Religion _______________________ ", "correctAnswer": "" },
+                    { "question": "Symbol _______________________. ", "correctAnswer": "" },
+                    { "question": "Feathers ______________________. ", "correctAnswer": "" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": 3,
+          "chapters": [
+            {
+              "chapter": 1,
+              "chapterName": "1 Little By Little",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english3/chapter1/1a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks",
+                  "questions": [
+                    {
+                      "question": "Little drops ______________________,  ___________________________ of sand. ",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Little deeds  ______________________,  ___________________________ of love. ",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "What make the mighty ocean?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What make this Earth ‘the heaven’?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What should we do to make this world ‘Eden’?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Make sentences of these words.",
+                  "questions": [
+                    {
+                      "question": "little  ________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "sand ________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "kindness ________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "heaven ________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "ocean ________________________________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Rearrange the following jumbled words to form a sentence.",
+                  "questions": [
+                    {
+                      "question": "pet this my is dog  ________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "twinkle at stars night the  ________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "an fruit a apple is  ________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "pink rose is the  ________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "the sweet is mango a fruit ________________________________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "go we school to________________________________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 2,
+              "chapterName": "2 The Jackal and the Camel",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english3/chapter2/2a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks",
+                  "questions": [
+                    {
+                      "question": "The jackal wished to ________________ the river.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "He wanted to  ________________ the fishes there.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "The jackal sat on the camel's  ________________ .",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "The camel went to eat the ________________ .",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "The villagers beat the ________________ with sticks.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "The camel wanted to  ________________ the jackal a lesson.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "Where did the jackal and the camel live?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What did the villagers do with the camel?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "How did the jackal cross the river?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What did the jackal do after finishing his meal?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "How did the camel take his revenge?  ",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Was the Jackal a good friend or a bad friend?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Pick out abstract nouns and write them.",
+                  "questions": [
+                    {
+                      "question": "Never tell a lie           ______________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Wisdom is better than valour.           __________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "The mischief caused misery.           ________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Follow the advice of elders.          ____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Health is wealth.            ___________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Be kind to the animals.            __________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Match the following words to their opposites.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english3/chapter2/2b.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 3,
+              "chapterName": "3 Good Manners",
+              "categories": [
+                {
+                  "categoryName": "Darken the correct option in the OMR Sheet.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english3/chapter3/3a.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks",
+                  "questions": [
+                    {
+                      "question": "Good manners __________ a gentleman.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Everyone should learn good __________.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Good manners are  ________________ .",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "A good mannered person is  ________________ by all.",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the following questions.",
+                  "questions": [
+                    {
+                      "question": "What a person is known for? ",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What kind of man is called a good man?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "How are the words ‘please’ and ‘thank you’ ?",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "Write at least three qualities of a good man.",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "What is the mirror of good manners ?",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Write the opposite of the following words.",
+                  "questions": [
+                    {
+                      "question": "win   ______________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "receive        __________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "never    ________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "good         ____________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "honest    ___________________________",
+                      "correctAnswer": ""
+                    },
+                    {
+                      "question": "praise          __________________________",
+                      "correctAnswer": ""
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Fill in the blanks choosing suitable prepositions given in the box.",
+                  "questions": [
+                    {
+                      "imgUrl": "./images/english/english3/chapter3/3b.PNG",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              
+              ]
+            },
+            {
+              "chapter": 4,
+              "chapterName": "4 King Alphonso",
+              "categories": [
+                {
+                  "categoryName": "QUESTIONS ARE NOT AVAILABLE  ",
+                  "questions": [
+                    {
+                      "question": "",
+                      "correctAnswer": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "maths",
+      "classes": [
+        {
+          "class": 1,
+          "chapters": [
+            {
+              "chapter": 1,
+              "categories": [
+                {
+                  "categoryName": "Fill in the Blanks",
+                  "questions": [
+                    { "question": "5 + 3 = __________.", "correctAnswer": "8" },
+                    { "question": "9 - 2 = __________.", "correctAnswer": "7" }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the Following",
+                  "questions": [
+                    {
+                      "question": "What is the result of multiplying 4 by 6?",
+                      "correctAnswer": "24"
+                    },
+                    {
+                      "question": "How many sides does a triangle have?",
+                      "correctAnswer": "3"
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Multiple Choice",
+                  "questions": [
+                    {
+                      "question": "What is the shape of a circle?",
+                      "options": ["Square", "Triangle", "Rectangle", "Round"],
+                      "correctAnswer": "Round"
+                    },
+                    {
+                      "question": "How many centimeters are in a meter?",
+                      "options": ["100", "10", "1000", "50"],
+                      "correctAnswer": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 2,
+              "categories": [
+                {
+                  "categoryName": "Fill in the Blanks",
+                  "questions": [
+                    { "question": "7 + 2 = __________.", "correctAnswer": "9" },
+                    { "question": "4 - 1 = __________.", "correctAnswer": "3" }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the Following",
+                  "questions": [
+                    {
+                      "question": "What is the result of multiplying 8 by 5?",
+                      "correctAnswer": "40"
+                    },
+                    {
+                      "question": "How many sides does a square have?",
+                      "correctAnswer": "4"
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Multiple Choice",
+                  "questions": [
+                    {
+                      "question": "What is the shape of a rectangle?",
+                      "options": ["Square", "Triangle", "Round", "Rectangular"],
+                      "correctAnswer": "Rectangular"
+                    },
+                    {
+                      "question": "How many millimeters are in a centimeter?",
+                      "options": ["10", "100", "1000", "50"],
+                      "correctAnswer": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "chapter": 3,
+              "categories": [
+                {
+                  "categoryName": "Fill in the Blanks",
+                  "questions": [
+                    {
+                      "question": "6 + 4 = __________.",
+                      "correctAnswer": "10"
+                    },
+                    { "question": "8 - 3 = __________.", "correctAnswer": "5" }
+                  ]
+                },
+                {
+                  "categoryName": "Answer the Following",
+                  "questions": [
+                    {
+                      "question": "What is the result of multiplying 7 by 2?",
+                      "correctAnswer": "14"
+                    },
+                    {
+                      "question": "How many sides does a pentagon have?",
+                      "correctAnswer": "5"
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Multiple Choice",
+                  "questions": [
+                    {
+                      "question": "What is the shape of a triangle?",
+                      "options": [
+                        "Square",
+                        "Round",
+                        "Rectangular",
+                        "Triangular"
+                      ],
+                      "correctAnswer": "Triangular"
+                    },
+                    {
+                      "question": "How many kilometers are in a mile?",
+                      "options": ["1", "5", "10", "1.60934"],
+                      "correctAnswer": "1.60934"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
